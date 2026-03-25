@@ -1,4 +1,4 @@
-// Operadores de incremento e decremento | pre e po s incremento
+// Operadores de incremento e decremento | pre e pos incremento
 // incremento
 //incremento => somar algo i
 
